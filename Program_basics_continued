@@ -1,0 +1,107 @@
+﻿using System;
+
+
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+
+            //<=====================================================Writing Hello World in C#=====================================================>
+
+            Console.WriteLine("Hello World");
+            Console.WriteLine("My name is Derwaish Kamran");
+
+            //<=====================================================Writing Hello World in C#=====================================================>
+
+
+            //<=====================================================Working with data types in C#=================================================>
+
+            int x = 45, y = 46, result = 0;
+            double pi = 3.1415;
+            char op = '*';
+            // USing a placeholder {0}
+            Console.WriteLine("pi is= {0}", pi);
+            result = calculator(x, y, op);
+            Console.WriteLine("The result is: " + result);
+
+
+            //<=====================================================Working with data types in C#=================================================>
+
+
+            //<=====================================================Working with user inputs in C#=================================================>
+
+            string firstName = " ";
+            string secondName = " ";
+            string age = " ";
+            Console.Write("Please type in the first name of the individual: ");
+            firstName = Console.ReadLine();
+            Console.Write("Please type in the second name of the individual: ");
+            secondName = Console.ReadLine();
+            Console.Write("Please type in the age of the individual: ");
+            age = Console.ReadLine();
+
+            Console.Write($"The firstName of the individual is " + firstName + "\n" + "The secondName of the individual is " + secondName + "\n" + "The age of the individual is " + age + "\n");
+            //<=====================================================Working with user inputs in C#=================================================>
+
+            //<=====================================================Working with booleans in C#=================================================>
+
+            bool isRaining = false;
+            bool isSunny = true;
+            Console.WriteLine("is raining? " + isRaining);
+            Console.WriteLine("is sunny? " + isSunny);
+
+
+
+            //<=====================================================Working with booleans in C#=================================================>
+
+            //<=====================================================Working with loops in C#=================================================>
+            int h = 0;
+            while (h < 5)
+            {
+                Console.WriteLine("Hello World");
+                h++;
+            }
+
+
+
+
+
+
+            //<=====================================================Working with loops in C#=================================================>
+        }
+
+        static int calculator(int x, int y, char op)
+        {
+            switch (op)
+            {
+                case '+':
+                    return x + y;
+                    break;
+                case '-':
+                    return x - y;
+                    break;
+                case '*':
+                    return x * y;
+                    break;
+                case '/':
+                    return x / y;
+                    break;
+                default:
+                    Console.WriteLine("Inappropriate input");
+                    break;
+
+            }
+            return 0;
+        }
+
+
+
+
+
+    }
+
+}

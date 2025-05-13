@@ -1,0 +1,14 @@
+D:\code\Learning_C#\coreConsoleApp\coreConsoleApp\bin\Debug\net8.0\coreConsoleApp.exe
+D:\code\Learning_C#\coreConsoleApp\coreConsoleApp\bin\Debug\net8.0\coreConsoleApp.deps.json
+D:\code\Learning_C#\coreConsoleApp\coreConsoleApp\bin\Debug\net8.0\coreConsoleApp.runtimeconfig.json
+D:\code\Learning_C#\coreConsoleApp\coreConsoleApp\bin\Debug\net8.0\coreConsoleApp.dll
+D:\code\Learning_C#\coreConsoleApp\coreConsoleApp\bin\Debug\net8.0\coreConsoleApp.pdb
+D:\code\Learning_C#\coreConsoleApp\coreConsoleApp\obj\Debug\net8.0\coreConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Learning_C#\coreConsoleApp\coreConsoleApp\obj\Debug\net8.0\coreConsoleApp.AssemblyInfoInputs.cache
+D:\code\Learning_C#\coreConsoleApp\coreConsoleApp\obj\Debug\net8.0\coreConsoleApp.AssemblyInfo.cs
+D:\code\Learning_C#\coreConsoleApp\coreConsoleApp\obj\Debug\net8.0\coreConsoleApp.csproj.CoreCompileInputs.cache
+D:\code\Learning_C#\coreConsoleApp\coreConsoleApp\obj\Debug\net8.0\coreConsoleApp.dll
+D:\code\Learning_C#\coreConsoleApp\coreConsoleApp\obj\Debug\net8.0\refint\coreConsoleApp.dll
+D:\code\Learning_C#\coreConsoleApp\coreConsoleApp\obj\Debug\net8.0\coreConsoleApp.pdb
+D:\code\Learning_C#\coreConsoleApp\coreConsoleApp\obj\Debug\net8.0\coreConsoleApp.genruntimeconfig.cache
+D:\code\Learning_C#\coreConsoleApp\coreConsoleApp\obj\Debug\net8.0\ref\coreConsoleApp.dll

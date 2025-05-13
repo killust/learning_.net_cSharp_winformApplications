@@ -1,0 +1,14 @@
+D:\code\Learning_C#\http_traffic_interception\http_traffic_interception\bin\Debug\net8.0\http_traffic_interception.exe
+D:\code\Learning_C#\http_traffic_interception\http_traffic_interception\bin\Debug\net8.0\http_traffic_interception.deps.json
+D:\code\Learning_C#\http_traffic_interception\http_traffic_interception\bin\Debug\net8.0\http_traffic_interception.runtimeconfig.json
+D:\code\Learning_C#\http_traffic_interception\http_traffic_interception\bin\Debug\net8.0\http_traffic_interception.dll
+D:\code\Learning_C#\http_traffic_interception\http_traffic_interception\bin\Debug\net8.0\http_traffic_interception.pdb
+D:\code\Learning_C#\http_traffic_interception\http_traffic_interception\obj\Debug\net8.0\http_traffic_interception.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Learning_C#\http_traffic_interception\http_traffic_interception\obj\Debug\net8.0\http_traffic_interception.AssemblyInfoInputs.cache
+D:\code\Learning_C#\http_traffic_interception\http_traffic_interception\obj\Debug\net8.0\http_traffic_interception.AssemblyInfo.cs
+D:\code\Learning_C#\http_traffic_interception\http_traffic_interception\obj\Debug\net8.0\http_traffic_interception.csproj.CoreCompileInputs.cache
+D:\code\Learning_C#\http_traffic_interception\http_traffic_interception\obj\Debug\net8.0\http_traffic_interception.dll
+D:\code\Learning_C#\http_traffic_interception\http_traffic_interception\obj\Debug\net8.0\refint\http_traffic_interception.dll
+D:\code\Learning_C#\http_traffic_interception\http_traffic_interception\obj\Debug\net8.0\http_traffic_interception.pdb
+D:\code\Learning_C#\http_traffic_interception\http_traffic_interception\obj\Debug\net8.0\http_traffic_interception.genruntimeconfig.cache
+D:\code\Learning_C#\http_traffic_interception\http_traffic_interception\obj\Debug\net8.0\ref\http_traffic_interception.dll
